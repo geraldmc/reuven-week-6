@@ -1,2 +1,1 @@
 This is a line in text1.txt.
-Add a new line to the file.
