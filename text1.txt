@@ -1,5 +1,2 @@
 This is a line in text1.txt.
-<<<<<<< HEAD
 Added line back in main branch.
-=======
->>>>>>> new-branch
