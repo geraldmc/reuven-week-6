@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line added back in text2.
+=======
+This is a line in text2.txt
+>>>>>>> new-branch
